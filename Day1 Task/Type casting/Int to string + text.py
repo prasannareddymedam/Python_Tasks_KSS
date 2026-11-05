@@ -2,4 +2,4 @@
 
 age = 22
 s = str(age)
-print("My age is" +s)
+print("My age is " + s)

@@ -2,4 +2,5 @@
 
 a = 1
 b = 2
-print("Sum (a+b)")
+sum = a+b
+print(sum)

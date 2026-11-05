@@ -1,7 +1,8 @@
 # Convert a number to string and concatenate it with another string.
 
-num = 22
-text = ("My age is " +str(num))
+n = 100
+s = "price: "
+text = (s +str(n))
 print(text)
 
         

@@ -1,5 +1,5 @@
 # Print a name and age using string formatting.
 
-name = ("Prasanna")
+name = "Prasanna"
 age = 22
-print("My name is() and I am()years old".format(name,age))
+print(f"{name} is {age} years old")

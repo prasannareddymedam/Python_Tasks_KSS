@@ -1,4 +1,4 @@
-#  Create variables for length and width and calculate the area of a rectangle.
+#   Store your age in a variable and print it. 
 
 age = 22
-print("My age is (age)")
+print("My age is",age)

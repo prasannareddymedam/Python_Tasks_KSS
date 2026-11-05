@@ -1,5 +1,5 @@
 #  Take a number as input and convert it to an integer
 
-num = input("Enter the number")
-num = int(num)
-print(num)
+n = input("Enter the number: ")
+n = int(n)
+print(n)

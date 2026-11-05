@@ -1,5 +1,5 @@
 #  Use **f-strings** to print a sentence with variables.
 
+name = "Ram"
 city = "Hyderabad"
-friends = "3"
-print("(city)has a friends(friends).")
+print(f"{name} lives in {city}")

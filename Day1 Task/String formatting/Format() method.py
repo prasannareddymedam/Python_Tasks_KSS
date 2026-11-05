@@ -1,5 +1,5 @@
 #  Format a string using `format()` method.
 
-Fruit = "Apple"
-Kgs = 1
-print("I like {}".format(Fruit))
+name = "Ram"
+age = 20
+print("{} is {} years old".format(name,age))

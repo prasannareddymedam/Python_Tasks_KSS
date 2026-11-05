@@ -3,4 +3,4 @@
 length = 5
 width = 8
 area = length * width
-print("Area =(area)")
+print(area)

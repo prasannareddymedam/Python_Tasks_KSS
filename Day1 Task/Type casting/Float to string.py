@@ -1,6 +1,5 @@
   # Convert a float to a string and print it.
 
-float = 10.50
-string = str(float)
-print(string)
-print(type(string))
+f = 3.4
+print(str(f))
+

@@ -1,8 +1,6 @@
 # Evaluate an expression involving addition and multiplication.
 
-<<<<<<< HEAD
-a = 10+5*6
-=======
-a = 10+5*4
->>>>>>> 852bdee457a283844f021305cb80d564226fcc51
-print(a)
+a = 2
+b = 3
+c = 4
+print(a+b*c)

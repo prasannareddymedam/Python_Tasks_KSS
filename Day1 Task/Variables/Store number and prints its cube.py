@@ -1,4 +1,4 @@
 # Store a number and print its cube.
 
-number = 2
-print("Cube = (number**2)")
+n = 2
+print(n**3)
