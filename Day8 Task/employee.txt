@@ -1,0 +1,4 @@
+Usha 25000
+Ram 30000
+Asha 28000
+Priya 32000

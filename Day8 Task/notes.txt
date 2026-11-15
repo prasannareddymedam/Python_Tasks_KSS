@@ -1,0 +1,3 @@
+Today I learned File Handling
+Python is easy
+Practice daily
