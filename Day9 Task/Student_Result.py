@@ -8,5 +8,5 @@ class Result:
         print("Total = ",a+b+c)
 
 r1 = Result()
-r1.total(80,90)
-r1.total(80,90,70)
+r1.total(80,95)
+r1.total(80,95,70)
