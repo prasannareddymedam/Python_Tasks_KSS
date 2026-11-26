@@ -1,0 +1,3 @@
+{'Asha': 78, 'Ram': 45, 'Usha': 92, 'Madhu': 55, 'Manu': 38}
+Above 50:['Asha', 'Usha', 'Madhu']
+Average:61.60
